@@ -130,5 +130,13 @@
       },
       "resultado": "China"
     }
-  ]
+  ],
+  "economia": {
+    "gastos_totales": 15000,
+    "detalle_gastos": {
+      "alquiler_instalaciones": 8000,
+      "equipos_voleibol": 3000,
+      "honorarios_arbitros": 4000
+    }
+  }
 }
